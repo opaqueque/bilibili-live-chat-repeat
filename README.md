@@ -19,7 +19,7 @@
 ### 2. 安装本脚本
 点击下方链接即可一键安装（推荐使用 GreasyFork 安装以保持后续自动更新）：
 - **[从 GreasyFork 一键安装](https://greasyfork.org/zh-CN/scripts/575243)**
-- [查看脚本源码](./bilibili-plus-one.user.js)
+- [查看脚本源码]([./bilibili-plus-one.user.js](https://github.com/opaqueque/bilibili-live-chat-repeat/blob/main/bilibili-live-chat-repeat.js))
 
 ## 🛠️ 使用说明
 
