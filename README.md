@@ -18,7 +18,7 @@
 
 ### 2. 安装本脚本
 点击下方链接即可一键安装（推荐使用 GreasyFork 安装以保持后续自动更新）：
-- **[从 GreasyFork 一键安装](https://greasyfork.org/zh-CN/scripts/你的脚本ID)**
+- **[从 GreasyFork 一键安装](https://greasyfork.org/zh-CN/scripts/575243)**
 - [查看脚本源码](./bilibili-plus-one.user.js)
 
 ## 🛠️ 使用说明
@@ -30,7 +30,7 @@
 
 ## 📝 贡献与反馈
 
-如果遇到某个特定直播间失效，或者 B 站前端页面结构改变导致按钮不显示，欢迎提交 [Issue](https://github.com/你的GitHub用户名/你的仓库名/issues) 或者直接发起 Pull Request。
+本插件由Gemini辅助完成，本人水平差还有望谅解。如有问题，反馈即可。
 
 ## 📄 开源协议
 
